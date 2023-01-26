@@ -12,7 +12,7 @@ function showImage() {
     polaroid.title = locations[index];
 
 
-    if (index<images.length-1) {
+    if (index<images.length-1 ) {
         
    index = index + 1;
         
